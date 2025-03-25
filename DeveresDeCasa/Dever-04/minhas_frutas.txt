@@ -1,0 +1,8 @@
+maçã,14
+banana,34
+laranja,40
+uva,88
+maçã,74
+melão,91
+mamão,75
+banana,26
